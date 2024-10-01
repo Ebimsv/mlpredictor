@@ -18,8 +18,6 @@ You can install the package via **PyPI** or from **source**.
 pip install mlpredictor
 ```
 
-````
-
 ### Install from Source (GitHub)
 
 ```bash
@@ -92,10 +90,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Contributions are welcome! Please feel free to submit pull requests or open issues if you have any suggestions or find bugs.
 
 ### Key Updates:
+
 1. **Installation Instructions**: Added how to install from both PyPI and source (GitHub).
 2. **Usage Instructions**: Provided examples for training, making predictions, saving the model, and loading a saved model.
 3. **Testing Section**: Added instructions on how to run the tests using `pytest`.
 4. **Contributing Section**: Encouraged contributions for further improvements.
 
 This updated README should provide users with all the information they need to install, use, and contribute to your project.
-````
