@@ -1,9 +1,3 @@
-Here's an updated version of your `README.md` that includes installation instructions, usage examples, and an explanation of how to train and use the model. This guide will help users understand how to use your package after installing it via `pip` or from source.
-
----
-
-### `README.md`
-
 ````markdown
 # MLPredictor
 
