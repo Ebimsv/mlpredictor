@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: mlpredictor
+Version: 0.1.0
+Summary: A simple machine learning package using scikit-learn
+Author-email: Ebrahim <ebimsv0501@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/ebimsv/mlpredictor
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: scikit-learn>=1.0
+
+# MLPredictor
+
+A simple machine learning package that uses scikit-learn to train and make predictions with a RandomForest model on the Iris dataset.

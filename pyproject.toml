@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlpredictor"
+version = "0.1.0"
+description = "A simple machine learning package using scikit-learn"
+authors = [
+    {name = "Ebrahim", email = "ebimsv0501@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = [
+    "scikit-learn>=1.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ebimsv/mlpredictor"

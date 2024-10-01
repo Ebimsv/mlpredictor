@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+mlpredictor/__init__.py
+mlpredictor/model.py
+mlpredictor.egg-info/PKG-INFO
+mlpredictor.egg-info/SOURCES.txt
+mlpredictor.egg-info/dependency_links.txt
+mlpredictor.egg-info/requires.txt
+mlpredictor.egg-info/top_level.txt
+tests/test_model.py
